@@ -1,0 +1,1 @@
+/home/dennis/projects/tree-sitter/tree-sitter-yadl/queries/locals.scm
